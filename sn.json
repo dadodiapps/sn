@@ -1,0 +1,39 @@
+{"success":true,"message":"","radios":
+[
+
+
+{"number":"1","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/sud-fm.png","name":"Sud FM","streamUrl":"https://node-02.zeno.fm/rq40edfn3reuv.mp3","yourmuzeId":"0","state":"1"},
+{"number":"2","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/lamp-fall-fm.png","name":"Lamp Fall FM","streamUrl":"https://stream.zenolive.com/ay2qtfx62neuv","yourmuzeId":"0","state":"1"}, 
+{"number":"3","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/alfayda.png","name":"Radio Al Fayda","streamUrl":"http://192.99.35.93:6310/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"4","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/walf-fm.png","name":"Walf FM","streamUrl":"http://206.190.135.28:8036/stream.m3u","yourmuzeId":"0","state":"1"}, 
+{"number":"5","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/tetiane.png","name":"Radio Tetiane","streamUrl":"https://stream.zenolive.com/aehw3zpkf7duv","yourmuzeId":"0","state":"1"}, 
+{"number":"6","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/xassida-online.png","name":"Xassida Online","streamUrl":"http://206.190.135.28:8000/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"7","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/futurs-medias.png","name":"Radio Futurs (Medias)","streamUrl":"http://ample-zeno-22.radiojar.com/kuk0syz5puquv","yourmuzeId":"0","state":"1"}, 
+{"number":"8","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/dakar-musique.png","name":"Dakar Musique","streamUrl":"http://listen.senemultimedia.net:5266/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"9","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/iradio.png","name":"iRadio","streamUrl":"https://stream.zenolive.com/rzppkx65puquv.m3u","yourmuzeId":"0","state":"1"}, 
+{"number":"10","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/vibe-senegal.png","name":"Vibe Radio","streamUrl":"http://217.182.132.137:8000/viberadio.mp3.m3u","yourmuzeId":"0","state":"1"}, 
+{"number":"11","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/pulaar-speaking.png","name":"Pulaar Speaking Radio","streamUrl":"http://70.38.12.44:8182/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"12","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/allodakar-tamtam.png","name":"AlloDakar Radio TamTam","streamUrl":"http://68.168.101.146:8520/","yourmuzeId":"0","state":"1"}, 
+{"number":"13","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/dingiral-fulbe.png","name":"Radio Dingiral Fulbe","streamUrl":"https://stream.zenolive.com/4car6cf6sfeuv.com","yourmuzeId":"0","state":"1"}, 
+{"number":"14","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/xamsadine.png","name":"Xamsadine","streamUrl":"http://s7.voscast.com:7200/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"15","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/sunuker.png","name":"Radio Sunuker","streamUrl":"http://radiosunuker223.primcast.com:6042/","yourmuzeId":"0","state":"1"}, 
+{"number":"16","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/maack-fm.png","name":"Maack FM","streamUrl":"http://comet.shoutca.st:8847/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"17","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/aanyam.png","name":"Radio Aanyam","streamUrl":"http://s8.voscast.com:9378/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"18","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/faydatidianiya.png","name":"Radio Faydatidianiya","streamUrl":"http://listen.senemultimedia.net:5526/listen.pls?sid=1","yourmuzeId":"0","state":"1"}, 
+{"number":"19","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/asfiyahi.png","name":"Asfiyahi FM","streamUrl":"https://edge.mixlr.com/channel/odnbu","yourmuzeId":"0","state":"1"}, 
+{"number":"20","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/pikine-diaspora.png","name":"Pikine Diaspora Radio","streamUrl":"http://s8.voscast.com:8252/stream/1/","yourmuzeId":"0","state":"1"}, 
+{"number":"21","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/ecouter-baolmedias-fm-sur-sunu.png","name":"Radio Baol Médias FM","streamUrl":"","yourmuzeId":"0","state":"1"}, 
+{"number":"22","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/sama-senegal.png","name":"Sama Radio","streamUrl":"https://streamingv2.shoutcast.com/SamaRadio.m3u","yourmuzeId":"0","state":"1"}, 
+{"number":"23","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/west-africa-democracy.png","name":"West Africa Democracy Radio","streamUrl":"https://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3","yourmuzeId":"0","state":"1"}, 
+{"number":"24","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/medinacheikh.png","name":"MedinaCheikh Radio","streamUrl":"https://listen.radioking.com/radio/261442/stream/306457","yourmuzeId":"0","state":"1"}, 
+{"number":"25","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/medinabaye.png","name":"Radio Medinabaye Kaffrine","streamUrl":"http://ample-zeno-04.radiojar.com/w4v1hckvewwtv","yourmuzeId":"0","state":"1"}, 
+{"number":"26","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/h24radio.png","name":"H24 Radio","streamUrl":"http://listen.senemultimedia.net:8011/listen.pls?sid=1","yourmuzeId":"0","state":"1"}, 
+{"number":"27","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/radio-thiossane.png","name":"Radio Thiossane","streamUrl":"http://listen.senemultimedia.net:5601/listen.pls?sid=1","yourmuzeId":"0","state":"1"}, 
+{"number":"28","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/radio-dakar-city.png","name":"Radio Dakar City","streamUrl":"http://207.180.238.79:8003/listen.pls?sid=1","yourmuzeId":"0","state":"1"}, 
+{"number":"29","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/kaffrine.png","name":"Kaffrine FM","streamUrl":"https://stream.zenolive.com/twwss3hu4ueuv","yourmuzeId":"0","state":"1"}, 
+{"number":"30","logo":"https://raw.githubusercontent.com/dadodiapps/sn/master/afri4.png","name":"Afri4","streamUrl":"https://www.radioking.com/play/afri4","yourmuzeId":"0","state":"1"}
+
+
+],
+"country":{"id":"60.png","name":"bahrain","logo":"..\/..\/_upload\/_flags\/bahrain.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
+
